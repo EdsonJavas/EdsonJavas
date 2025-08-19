@@ -9,13 +9,13 @@
 <br>
 
 <div align="center">
-  <a href="https://https://www.instagram.com/edson_souz4_/" target="_blank">
+  <a href="https://www.instagram.com/edson_souz4_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
   </a>
-  <a href="mailto:viniciusalvesdesantana05@gmail.com" target="_blank">
+  <a href="mailto:es553807@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/vinicius-alves-de-santana/" target="_blank">
+  <a href="https://www.linkedin.com/in/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
 </div>
